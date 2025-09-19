@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbhishekKumar567
 - 👀 I’m interested in learning new technologies
 - 🌱 I’m currently exploring domains of computer science and working on projects
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on genai full stack projects
 - 📫 How to reach me ...
 
 <!---
